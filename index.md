@@ -30,7 +30,7 @@ A previous workshop: [Basic Web Scrapin' 101](https://sandbox.idre.ucla.edu/sand
 
 - Sign up for a free account on [PythonAnywhere](https://www.pythonanywhere.com).
 - Or try to run Python in your Windows desktop -- see tips [here](http://docs.python-guide.org/en/latest/starting/install3/win/) about installing modules, setting up the environment.
-- Click on over to the [Simpsons folder](https://broadwell.github.io/text_squeeze/simpsons) for a potentially interesting data set and a couple of (messy) code examples.
+- Click on over to the [Simpsons folder](https://github.com/broadwell/text_squeeze/tree/master/simpsons) for a potentially interesting data set and a couple of (messy) code examples.
 
 ## Tutorials
 
