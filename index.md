@@ -14,3 +14,10 @@ Prior workshop: [Basic Web Scrapin' 101](https://sandbox.idre.ucla.edu/sandbox/b
 - Neal Caren, An introduction to text analysis with Python: [part 1](http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-1/), [part 2](http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-2/), [part 3](http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-3/)
 - Arman Akbarian, [Introduction to Text Mining and Natural Language Processing in Python](http://www.akbarian.org/notes/text-mining-nlp-python/)
 - Will Gannon, [Your First Text Mining Project with Python in 3 Steps](http://blog.aylien.com/first-text-mining-project-python-3-steps/)
+
+## Interesting data sets
+
+- A [big list](https://archive.ics.uci.edu/ml/datasets.html?&type=text&view=table) from UCI.
+- Another [big list](https://data.world/datasets/text-mining) from DataWorld, including [the Simpsons full-text](https://data.world/data-society/the-simpsons-by-the-data) dataset
+- Even more data sets from [Kaggle](https://www.kaggle.com/datasets?sortBy=relevance&group=featured&search=text) (used in data science programming competitions), including [a whole lot of song lyrics](https://www.kaggle.com/mousehead/songlyrics)
+- [IMDb film reviews](http://ai.stanford.edu/~amaas/data/sentiment/) (selected for extreme positive or negative sentiment)
