@@ -48,6 +48,8 @@ A previous workshop: [Basic Web Scrapin' 101](https://sandbox.idre.ucla.edu/sand
 
 ## Shameless self-promotion
 
+Some of these will take a while to load, so please be patient:
+
 - A [similarity matrix heatmap](http://babylon.library.ucla.edu/~broadwell/adl_sim/simmap.html) of the Archive for Danish Literature, based on the cosine similarity of the TF-IDF weighted 1/2/3-grams in the texts
 - A [clustering visualization](http://babylon.library.ucla.edu/~broadwell/corpusmaps/scandinavian/AfDL_similarity_clusters.html) of the same corpus
 - A comparison of the [relative Shannon entropies](http://babylon.library.ucla.edu/~broadwell/corpusmaps/scandinavian/AfDL_entropy.html) of the texts across the same corpus
