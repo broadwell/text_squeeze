@@ -28,7 +28,7 @@ A previous workshop: [Basic Web Scrapin' 101](https://sandbox.idre.ucla.edu/sand
 ## Try Python for yourself!
 
 - Sign up for a free account on [PythonAnywhere](https://www.pythonanywhere.com).
-- Or try to run Python in your Windows environment -- see tips [here](http://docs.python-guide.org/en/latest/starting/install3/win/) about installing modules, setting up the .
+- Or try to run Python in your Windows desktop -- see tips [here](http://docs.python-guide.org/en/latest/starting/install3/win/) about installing modules, setting up the environment.
 
 ## Tutorials
 
