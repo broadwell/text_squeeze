@@ -1,8 +1,8 @@
 # Squeeze more info from texts with Python
 
-Presentation slides [here](https://docs.google.com/presentation/d/1klBvWJloXl5pwy6zZGuxZcn5lCQqLLNPz2lEPkU9gC4/edit?usp=sharing).
+Presentation slides are [here](https://docs.google.com/presentation/d/1klBvWJloXl5pwy6zZGuxZcn5lCQqLLNPz2lEPkU9gC4/edit?usp=sharing).
 
-Prior workshop: [Basic Web Scrapin' 101](https://sandbox.idre.ucla.edu/sandbox/basic-web-scrapin-101)
+A previous workshop: [Basic Web Scrapin' 101](https://sandbox.idre.ucla.edu/sandbox/basic-web-scrapin-101)
 
 ## Save yourselves! Other text-analysis tools to consider
 - [Voyant Tools](https://voyant-tools.org/) and its [panoply of plugins](http://voyant-tools.org/docs/#!/guide/tools). Seriously, there are tons of them.
@@ -22,6 +22,8 @@ Prior workshop: [Basic Web Scrapin' 101](https://sandbox.idre.ucla.edu/sandbox/b
 - Neal Caren, An introduction to text analysis with Python: [part 1](http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-1/), [part 2](http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-2/), [part 3](http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-3/)
 - Arman Akbarian, [Introduction to Text Mining and Natural Language Processing in Python](http://www.akbarian.org/notes/text-mining-nlp-python/)
 - Will Gannon, [Your First Text Mining Project with Python in 3 Steps](http://blog.aylien.com/first-text-mining-project-python-3-steps/)
+- Brandon Rose, [Document Clustering with Python](http://brandonrose.org/clustering)
+- A Jupyter notebook demonstrating [LDA topic modeling with Python](https://nbviewer.jupyter.org/github/jinmanz/machine-learning/blob/master/Topic%20modelling%20-%20Interactive%20visualization%20%26%20topic%20distribution%20visualization%20%28three%20ebooks%20from%20Gutenburg%29.ipynb#topic=0&lambda=1&term=)
 
 ## Interesting text-mining data sets
 
@@ -29,3 +31,11 @@ Prior workshop: [Basic Web Scrapin' 101](https://sandbox.idre.ucla.edu/sandbox/b
 - Another [big list](https://data.world/datasets/text-mining) from DataWorld, including [the Simpsons full-text](https://data.world/data-society/the-simpsons-by-the-data) dataset
 - Even more data sets from [Kaggle](https://www.kaggle.com/datasets?sortBy=relevance&group=featured&search=text) (used in data science programming competitions), including [a whole lot of song lyrics](https://www.kaggle.com/mousehead/songlyrics)
 - [IMDb film reviews](http://ai.stanford.edu/~amaas/data/sentiment/) (selected for extreme positive or negative sentiment)
+
+## Shameless self-promotion
+
+- A [similarity matrix heatmap](http://babylon.library.ucla.edu/~broadwell/adl_sim/simmap.html) of the Archive for Danish Literature, based on the cosine similarity of the TF-IDF weighted 1/2/3-grams in the texts
+- A [clustering visualization](http://babylon.library.ucla.edu/~broadwell/corpusmaps/scandinavian/AfDL_similarity_clusters.html) of the same corpus
+- A comparison of the [relative Shannon entropies](http://babylon.library.ucla.edu/~broadwell/corpusmaps/scandinavian/AfDL_entropy.html) of the texts across the same corpus
+- A combined, interactive TF-IDF weighted 1/2/3-gram cosine similarity (top left) + LDA topic (bottom right) [similarity heatmap](http://babylon.library.ucla.edu/~broadwell/waka/mergedmap.html) for the 21 imperial anthologies of Japanese waka poetry
+- Another [combined heatmap](http://etkspace.scandinavian.ucla.edu/~broadwell/etksim/itextmap.html), this one showing both text cosine simlarity (bottom right) and detected instances of text reuse (top left) for the 30,000+ stories in Evald Tang Kristensen's collected Danish folklore
