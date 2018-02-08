@@ -5,6 +5,7 @@ Presentation slides are [here](https://docs.google.com/presentation/d/1klBvWJloX
 A previous workshop: [Basic Web Scrapin' 101](https://sandbox.idre.ucla.edu/sandbox/basic-web-scrapin-101)
 
 ## Other text-analysis tools to consider:
+- [Atom text editor](https://atom.io/) for good find-and-replace, [OpenRefine](http://openrefine.org/) for more sophisticated (non-scripting) text cleaning.
 - [Voyant Tools](https://voyant-tools.org/) and its [panoply of plugins](http://voyant-tools.org/docs/#!/guide/tools). Seriously, there are tons of them.
 - The compendium of tools at [TAPor3](http://tapor.ca/tools) (Text Analysis Portal) is a bit dated but still worth shopping through
 - [Lexos](http://lexos.wheatoncollege.edu/upload)
