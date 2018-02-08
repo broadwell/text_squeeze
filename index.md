@@ -8,7 +8,7 @@ A previous workshop: [Basic Web Scrapin' 101](https://sandbox.idre.ucla.edu/sand
 - [Voyant Tools](https://voyant-tools.org/) and its [panoply of plugins](http://voyant-tools.org/docs/#!/guide/tools). Seriously, there are tons of them.
 - The compendium of tools at [TAPor3](http://tapor.ca/tools) (Text Analysis Portal) is a bit dated but still worth shopping through
 - [Lexos](http://lexos.wheatoncollege.edu/upload)
-- [KNIME](https://www.knime.com/knime-analytics-platform) -- the best of the "graphical workflow" tools
+- [KNIME](https://www.knime.com/knime-analytics-platform) - the best of the "graphical workflow" tools
 - [LDA in the browser!](https://mimno.infosci.cornell.edu/jsLDA/)
 - [PhiloLogic5](https://github.com/ARTFL-Project/PhiloLogic5) for building and searching (including fuzzy search) large text corpora
 
@@ -50,5 +50,5 @@ A previous workshop: [Basic Web Scrapin' 101](https://sandbox.idre.ucla.edu/sand
 - A [similarity matrix heatmap](http://babylon.library.ucla.edu/~broadwell/adl_sim/simmap.html) of the Archive for Danish Literature, based on the cosine similarity of the TF-IDF weighted 1/2/3-grams in the texts
 - A [clustering visualization](http://babylon.library.ucla.edu/~broadwell/corpusmaps/scandinavian/AfDL_similarity_clusters.html) of the same corpus
 - A comparison of the [relative Shannon entropies](http://babylon.library.ucla.edu/~broadwell/corpusmaps/scandinavian/AfDL_entropy.html) of the texts across the same corpus
-- A combined, interactive TF-IDF weighted 1/2/3-gram cosine similarity (top left) + LDA topic (bottom right) [similarity heatmap](http://babylon.library.ucla.edu/~broadwell/waka/mergedmap.html) for the 21 imperial anthologies of Japanese waka poetry
-- Another [combined heatmap](http://etkspace.scandinavian.ucla.edu/~broadwell/etksim/itextmap.html), this one showing both text cosine simlarity (bottom right) and detected instances of text reuse (top left) for the 30,000+ stories in Evald Tang Kristensen's collected Danish folklore
+- A combined, interactive TF-IDF weighted 1/2/3-gram cosine similarity (upper left) + LDA topic (lower right) [similarity heatmap](http://babylon.library.ucla.edu/~broadwell/waka/mergedmap.html) for the 21 imperial anthologies of Japanese waka poetry
+- Another [combined heatmap](http://etkspace.scandinavian.ucla.edu/~broadwell/etksim/itextmap.html), this one showing both text cosine simlarity (lower right) and detected instances of text reuse (upper left) for the 30,000+ stories in Evald Tang Kristensen's collected Danish folklore
