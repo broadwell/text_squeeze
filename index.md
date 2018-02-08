@@ -4,13 +4,35 @@ Presentation slides are [here](https://docs.google.com/presentation/d/1klBvWJloX
 
 A previous workshop: [Basic Web Scrapin' 101](https://sandbox.idre.ucla.edu/sandbox/basic-web-scrapin-101)
 
-## Save yourselves! Other text-analysis tools to consider
+## Other text-analysis tools to consider:
 - [Voyant Tools](https://voyant-tools.org/) and its [panoply of plugins](http://voyant-tools.org/docs/#!/guide/tools). Seriously, there are tons of them.
 - The compendium of tools at [TAPor3](http://tapor.ca/tools) (Text Analysis Portal) is a bit dated but still worth shopping through
 - [Lexos](http://lexos.wheatoncollege.edu/upload)
 - [KNIME](https://www.knime.com/knime-analytics-platform) -- the best of the "graphical workflow" tools
 - [LDA in the browser!](https://mimno.infosci.cornell.edu/jsLDA/)
 - [PhiloLogic5](https://github.com/ARTFL-Project/PhiloLogic5) for building and searching (including fuzzy search) large text corpora
+
+## Core text analysis libraries in Python, with links to documentation:
+
+- [nltk](http://www.nltk.org/): Natural Language Toolkit for NLP and more, incl. interface to Stanford CoreNLP
+
+- [scikit-learn](http://scikit-learn.org/) (aka sklearn, learn is for “machine learning”)
+
+- [gensim](https://radimrehurek.com/gensim/): word2vec, doc2vec, also yet more topic modeling
+
+- Deep learning: [TensorFlow](https://www.tensorflow.org/) and [keras](https://keras.io/)
+
+### The SciPy (scipy.org) open-source “ecosystem”:
+
+- [NumPy](http://www.numpy.org/): core numerical processing tools & data structures
+
+- [pandas](https://pandas.pydata.org/): data frame support, for the R converts
+
+- [SciPy](https://docs.scipy.org/doc/scipy/reference/): scientific computing functions, including clustering
+
+- [matplotlib](https://matplotlib.org/) and [matplotlib.pyplot](https://matplotlib.org/api/pyplot_summary.html) (plotting, dataviz)
+
+- Note that [Jupyter/iPython notebooks](https://jupyter-notebook.readthedocs.io/en/stable/) are also from SciPy
 
 ## Try Python for yourself!
 
