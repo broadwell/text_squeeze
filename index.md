@@ -47,7 +47,7 @@ A previous workshop: [Basic Web Scrapin' 101](https://sandbox.idre.ucla.edu/sand
 - Even more data sets from [Kaggle](https://www.kaggle.com/datasets?sortBy=relevance&group=featured&search=text) (used in data science programming competitions), including [a whole lot of song lyrics](https://www.kaggle.com/mousehead/songlyrics)
 - [IMDb film reviews](http://ai.stanford.edu/~amaas/data/sentiment/) (selected for extreme positive or negative sentiment)
 
-## Shameless self-promotion
+## Shameless self-promotion: text analysis examples
 
 Some of these will take a while to load, so please be patient:
 
